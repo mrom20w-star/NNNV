@@ -1,0 +1,6 @@
+{
+  "name": "iPhone 17 Pro Max Camera AI",
+  "description": "حوّل أي صورة من أي هاتف لجودة كاميرا آيفون 17 برو ماكس الخارقة مع تقنيات Photonic Engine و Smart HDR 6 و Deep Fusion والذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
